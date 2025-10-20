@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Made with XGBoost](https://img.shields.io/badge/made%20with-XGBoost-orange)](https://xgboost.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/made%20with-XGBoost-orange)](https://xgboost.readthedocs.io/)
 
 ## 🚀 Project Overview
 This project predicts wine quality using physico-chemical features and machine learning models. It includes exploratory data analysis (EDA), feature engineering, model training, evaluation.
