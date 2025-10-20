@@ -7,7 +7,7 @@
 ## 🚀 Project Overview
 This project predicts wine quality using physico-chemical features and machine learning models. It includes exploratory data analysis (EDA), feature engineering, model training, evaluation.
 
-## 🧩 Goals
+## 🎯 Goals
 - Perform exploratory data analysis (EDA) on the wine dataset
 - Preprocess and standardize features
 - Train, tune, and evaluate an XGBoost model
