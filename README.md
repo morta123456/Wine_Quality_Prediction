@@ -26,6 +26,6 @@ This project predicts wine quality using physico-chemical features and machine l
 - 💻 Jupyter Notebook for development and reporting
 
 ## 🧑‍💻 Author
-- Mortadha Ferchichi
+## Mortadha Ferchichi
 - 📧 ferchichii.mortadha@gmail.com
 - 🌐 https://github.com/morta123456
