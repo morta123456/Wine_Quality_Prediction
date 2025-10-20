@@ -14,9 +14,8 @@ This project predicts wine quality using physico-chemical features and machine l
 - Visualize key feature importances
 
 ## 📈 Results
-- XGBoost achieved a classification accuracy of **91%** on the test set.  
-- Top predictive features: Residual Sugar, Fixed Acidity, and Citric Acid.  
-
+- XGBoost achieved a classification accuracy of **91%** on the test set.
+- The top three predictive features are Residual Sugar, Fixed Acidity, and Citric Acid.
 
 ## 🛠 Tech stack
 - 🐍 Python 3.8+
